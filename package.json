@@ -1,0 +1,10 @@
+{
+  "name": "airspace",
+  "version": "0.1.0",
+  "description": "See what everyone on your team is changing right now, before merge time.",
+  "type": "module",
+  "bin": { "airspace": "index.js" },
+  "scripts": { "test": "node --test --test-concurrency=1" },
+  "engines": { "node": ">=20" },
+  "license": "MIT"
+}
